@@ -1,0 +1,40 @@
+body{
+    color:blueviolet;
+    background-color:rgb(250, 248, 120);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 11em;
+
+}
+ul.navbar {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em }
+
+
+h1{
+    font-family: cursive;
+    color: rgb(174, 0, 255);
+}
+
+ul.navbar li{
+    background-color: floralwhite;
+    margin: 0.5em;
+    padding: 0.3em;
+    border-right: 1em solid black;
+}
+ul.navbar a {
+    text-decoration: none }
+  a:link {
+    color: blue }
+  a:visited {
+    color: purple }
+
+    address {
+        margin-top: 1em;
+        padding-top: 1em;
+        border-top: thin dotted }
+
