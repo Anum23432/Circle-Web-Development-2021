@@ -1,0 +1,10 @@
+h1,h2,h3,h4,h5,h6 {
+    text-align: center;
+    color: rgb(64, 26, 83);
+    text-shadow: 3px 3px rgb(255, 87, 227);
+    font-style: 'Noto Sans', sans-serif;;
+    font-family: cursive;
+    padding: 20px;
+
+}
+
