@@ -1,0 +1,20 @@
+.first-div{
+     background-color: rgb(150, 150, 199);
+     font-size: 50px;
+
+}
+
+span>p{
+    background-color: brown;
+    font-size: 30px;
+}
+
+div section{
+    background-color: cyan;
+    font-size: 20px;
+}
+.second-div>p{
+    background-color: darkgreen;
+    
+}
+
