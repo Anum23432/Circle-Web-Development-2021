@@ -1,0 +1,122 @@
+
+*{
+    max-width: 100%;
+    height:auto;
+    background-image: url("121.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+.nav-links li {
+    display: inline-block;
+    padding:0px 20px;
+    align-items: center;
+    padding:5px 20px;
+    font-family:'Dancing Script', cursive ;
+    font-size: 30px;
+    
+}
+
+.nav-linls li a{
+    transition: all 0.7s ease 0s;
+}
+.nav-links li a:hover {
+    color: rgb(151, 49, 88);
+}
+button{
+    margin-left: 20 px;
+    padding:9px 25px;
+    background-color: lightgreen;
+    border-color: mediumslateblue;
+    border-style: groove;
+    border-radius: 50px;
+    transition: all 0.7s ease 0s ;
+    cursor: pointer;
+    font-family:'Dancing Script', cursive ;
+    font-size: 20px;
+    font-weight: 50;
+    float: right;
+
+}
+button:hover{
+    color: rgb(194, 64, 13);
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive; 
+    padding-bottom: 8px;
+    text-shadow: hotpink 2px 2px;
+}
+
+h2{
+    font-size: 40px;
+    padding-top: 0;
+    font-family:'Dancing Script', cursive  ;
+    color: rgb(15, 87, 13);
+    text-shadow: rgb(189, 95, 64) 2px 2px;
+
+}
+p{
+    padding-top: 15px;
+    font-family:'Dancing Script', cursive ;
+    font-style: italic;
+    font-size: 25px;
+    color: rgb(76, 15, 82);
+    text-shadow: green;
+}
+img{
+    padding-bottom: 200px;
+    float: right;
+    opacity: 0.6;
+}
+footer{
+    height: 30vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    height:100px;
+    width: 100px;
+    background-color: rgb(211, 121, 121);
+    border-radius: 50px;
+    text-align: center;
+    margin:10px;
+    line-height: 110px;
+    box-shadow: 1px 4px 2px 2px rgb(97, 86, 86);
+
+}
+a i{
+    transition:all 0.7s linear;
+}
+a:hover i{
+    transform:scale(0.4);
+}
+.fa-instagram{
+    color: rgb(151, 50, 143);
+}
+.fa-twitter{
+    color: #0097e6;
+}
+.fa-chevron-circle-right{
+    color: darkmagenta;
+}
+.fa-chevron-circle-left{
+    color: darkmagenta; ;
+}
+
+i{
+    transition:all 0.7s linear ;
+}
+i:hover{
+    color: rgb(240, 255, 36);
+}
+.fa-ellipsis-h{
+    color: rgb(236, 113, 113);
+
+}
+
