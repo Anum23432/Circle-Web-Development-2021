@@ -1,0 +1,16 @@
+.grid-container{
+    background-color: aquamarine;
+    padding: 10px;
+    display:grid;
+    grid-column-gap:50px ;
+    grid-row-gap:10px;
+    grid-template-columns: auto auto auto auto;
+}
+
+.grid-container>div{
+
+    width:200px;
+    height:100px;
+    background-color: burlywood;
+    
+}

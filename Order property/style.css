@@ -1,0 +1,13 @@
+.flex-container{
+    padding: 10px;
+    background-color: burlywood;
+    display:flex;
+    flex-direction: column;
+}
+.flex-container>div{
+       width:100px;
+       height:100px;
+       background-color: blue;
+       margin: 10px;
+       order: 3 2 5 4 1;
+}
